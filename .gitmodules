@@ -1,0 +1,9 @@
+[submodule "cookbooks/git"]
+	path = cookbooks/git
+	url = git://github.com/opscode-cookbooks/git.git
+[submodule "cookbooks/erlang"]
+	path = cookbooks/erlang
+	url = https://github.com/opscode-cookbooks/erlang
+[submodule "cookbooks/yum"]
+	path = cookbooks/yum
+	url = git://github.com/opscode-cookbooks/yum.git
